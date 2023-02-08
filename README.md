@@ -1,0 +1,1 @@
+this is the NFT preview card component project from frontend mentor. it is the second challenge i've completed on this platform
